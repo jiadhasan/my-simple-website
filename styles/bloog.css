@@ -4,3 +4,13 @@
     margin: 15px;
     border-radius: 10px;
 }
+.di,ol{
+    background-color: blueviolet;
+    color: blanchedalmond;
+    font-size: large;
+}
+#how{
+    color:chocolate;
+    text-align: center;
+    text-shadow:5px;
+}
