@@ -1,4 +1,6 @@
 .my{
     background-color: tomato;
     padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
 }
